@@ -6,6 +6,6 @@
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://repl.it/@Lunkles/java-challenge-a-20)
 
 [Project Board](../../projects/1)
